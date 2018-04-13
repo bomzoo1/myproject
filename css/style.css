@@ -1,0 +1,77 @@
+
+
+body{
+	background-color: gray;
+	font-family: georgia;
+}
+
+.pix_up_margin{
+	margin-top:3%;
+}
+
+.home{
+	display: none;
+}
+
+
+.gal_div{
+	display: none;
+}
+
+.serv_div{
+	display: none;
+}
+
+.con_div{
+	display: none;
+}
+
+hr{
+	border-color:  #337ab7;
+}
+
+.pixgal{
+	display: none;
+}
+
+.pixgalb{
+	display: none;
+}
+
+.pixgalc{
+	display: none;
+}
+
+.max{
+	font-family: impact;
+	font-size: 39px;
+}
+
+.games{
+	font-size: 18px;
+	background-color:grey; 
+	color: white;
+	padding: 7px;
+	border-radius: 10px;
+	margin-left: 1%;
+}
+
+.foot{
+background-color:  #337ab7;
+}
+
+.white{
+	color: white;
+}
+
+.img:hover{
+	cursor: hand !important;
+}
+
+.display{
+	display: block;
+}
+
+.taba,.back,.backb{
+	display: none;
+}
